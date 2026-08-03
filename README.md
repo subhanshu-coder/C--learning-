@@ -1,2 +1,2 @@
 # C--learning-
-making learning journey cool
+making learning journey cool and intresting

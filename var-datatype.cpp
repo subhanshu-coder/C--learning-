@@ -6,6 +6,7 @@ int main() {
     int age = 22; // declare an integer variable 'age' and initialize it with the value 22
     bool isStudent = true; // declare a boolean variable 'isStudent' and initialize it with the value true
     float height = 5.9; // declare a float variable 'height' and initialize it with the value 5.9
+    char grade = 'A'; // declare a char variable 'grade' and initialize it with the value 'A'
     cout << "my age is: " << age <<endl;
     cout << "size of int: " << sizeof(age) << " bytes" << endl; // print the size of the integer variable 'age'
     cout << "size of bool: " << sizeof(isStudent) << " bytes" << endl; // print the size of the boolean variable 'isStudent'

@@ -13,7 +13,7 @@ int main() {
     cout << "size of bool: " << sizeof(isStudent) << " bytes" << endl; // print the size of the boolean variable 'isStudent'
     cout << "size of float: " << sizeof(height) << " bytes" << endl; // print the size of the float variable 'height'
     cout << "size of char: " << sizeof(grade) << " bytes" << endl; // print the size of the char variable 'grade'
-    
+    cout << "size of double: " << sizeof(weight) << " bytes" << endl; // print the size of the double variable 'weight'
     return 0;
 }
 

@@ -15,6 +15,7 @@ int main() {
     cout << "size of float: " << sizeof(height) << " bytes" << endl; // print the size of the float variable 'height'
     cout << "size of char: " << sizeof(grade) << " bytes" << endl; // print the size of the char variable 'grade'
     cout << "size of double: " << sizeof(weight) << " bytes" << endl; // print the size of the double variable 'weight'
+    cout << "size of string: " << sizeof(name) << " bytes" << endl; // print the size of the string variable 'name'
     return 0;
 }
 

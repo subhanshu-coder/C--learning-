@@ -1,8 +1,8 @@
-#include <iostream>
+#include <iostream> // include the iostream library for input and output operations
 using namespace std;
 
 int main() {
-
+     
     int age = 22; // declare an integer variable 'age' and initialize it with the value 22
     bool isStudent = true; // declare a boolean variable 'isStudent' and initialize it with the value true
     float height = 5.9; // declare a float variable 'height' and initialize it with the value 5.9

@@ -7,7 +7,7 @@ int main() {
     bool isStudent = true; // declare a boolean variable 'isStudent' and initialize it with the value true
     cout << "my age is: " << age <<endl;
     cout << "size of int: " << sizeof(age) << " bytes" << endl; // print the size of the integer variable 'age'
-
+    cout << "size of bool: " << sizeof(isStudent) << " bytes" << endl; // print the size of the boolean variable 'isStudent'
     return 0;
 }
 

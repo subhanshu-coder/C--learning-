@@ -7,11 +7,13 @@ int main() {
     bool isStudent = true; // declare a boolean variable 'isStudent' and initialize it with the value true
     float height = 5.9; // declare a float variable 'height' and initialize it with the value 5.9
     char grade = 'A'; // declare a char variable 'grade' and initialize it with the value 'A'
+    double weight = 70.5; // declare a double variable 'weight' and initialize it with the value 70.5
     cout << "my age is: " << age <<endl;
     cout << "size of int: " << sizeof(age) << " bytes" << endl; // print the size of the integer variable 'age'
     cout << "size of bool: " << sizeof(isStudent) << " bytes" << endl; // print the size of the boolean variable 'isStudent'
     cout << "size of float: " << sizeof(height) << " bytes" << endl; // print the size of the float variable 'height'
     cout << "size of char: " << sizeof(grade) << " bytes" << endl; // print the size of the char variable 'grade'
+    
     return 0;
 }
 

@@ -37,5 +37,5 @@ int main() {
     cin >> a >> b;
 
     cout << "Sum = " << a + b;
-
+  return 0;
 }

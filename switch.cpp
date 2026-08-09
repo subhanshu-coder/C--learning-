@@ -9,6 +9,9 @@ switch(day) {
     case 2: cout << "Tuesday"; break;
     case 3: cout << "Wednesday"; break;
     case 4: cout << "Thursday"; break;
+    case 5: cout << "Friday"; break;
+    case 6: cout << "Saturday"; break;
+    case 7: cout << "Sunday"; break;
     default: cout << "Invalid day";
 return 0;  // return 0 to indicate that the program executed successfully
 }  // end of the main function

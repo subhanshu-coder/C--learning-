@@ -22,3 +22,7 @@ int main() {
 
     return 0; // return 0 to indicate that the program executed successfully
 }
+
+// do- while loop solving 
+#include <iostream>
+using namespace std;  // use the standard namespace to avoid prefixing standard library names with "

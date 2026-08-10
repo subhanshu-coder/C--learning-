@@ -8,6 +8,8 @@ public:
 
     void display() {
         cout << name << " " << age;
+    }
+};
 
 return 0;
-}
+};

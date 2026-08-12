@@ -5,3 +5,5 @@ map<string, int> marks;
 
 marks["Math"] = 90;
 marks["C++"] = 95;
+
+cout << marks["C++"];

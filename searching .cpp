@@ -9,3 +9,6 @@ for(int i = 0; i < 5; i++) {
         cout << "Element found at index: " << i << endl;
         break;
     }
+
+// binary search implementation
+#include <iostream>

@@ -11,3 +11,10 @@ void printNumbers(int n) {
 
     cout << n << " ";
 }
+
+int main() {
+
+    printNumbers(5);
+
+    return 0;
+}

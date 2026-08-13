@@ -5,3 +5,9 @@ void printNumbers(int n) {
     // Base case
     if (n == 0)
         return;
+
+           // Recursive call
+    printNumbers(n - 1);
+
+    cout << n << " ";
+}

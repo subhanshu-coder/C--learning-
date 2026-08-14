@@ -19,7 +19,7 @@ int binarySearch(int arr[], int size, int target) {  // binary search function i
     int right = size - 1; // Initialize the left and right pointers
 
     
-    while (left <= right) {
+    while (left <= right) {  // Continue searching while the left pointer is less than or equal to the right pointer
         int mid = left + (right - left) / 2; // Calculate the middle index
 
         if (arr[mid] == target)

@@ -32,3 +32,5 @@ int binarySearch(int arr[], int size, int target) {
 
     return -1; // Element not found
 }
+
+// this is searching we use to search the things in code 

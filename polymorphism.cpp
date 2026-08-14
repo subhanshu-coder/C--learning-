@@ -5,7 +5,7 @@ class Student {
 public:
     string name; // Member variable to store the name of the student
 
-    Student(string n) {
-        name = n;
+    Student(string n) { // Constructor to initialize the name of the student
+        name = n;  // Initialize the name of the student
     }
 };

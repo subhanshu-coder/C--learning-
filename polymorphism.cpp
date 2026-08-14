@@ -2,7 +2,7 @@
 using namespace std;
 
 class Student {
-public:
+public: // Public access specifier to allow access to the member variable and constructor from outside the class
     string name; // Member variable to store the name of the student
 
     Student(string n) { // Constructor to initialize the name of the student

@@ -3,7 +3,7 @@ using namespace std;
 
 class Student {
 public:
-    string name;
+    string name; // Member variable to store the name of the student
 
     Student(string n) {
         name = n;

@@ -12,7 +12,7 @@ void printNumbers(int n) { // Function to print numbers from 1 to n using recurs
     cout << n << " "; // Print the current number after the recursive call to ensure numbers are printed in ascending order
 }
 
-int main() {
+int main() {  // Main function
 
     printNumbers(5); // Call the function to print numbers from 1 to 5
 

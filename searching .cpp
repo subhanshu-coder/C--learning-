@@ -16,7 +16,7 @@ using namespace std;
 
 int binarySearch(int arr[], int size, int target) {
     int left = 0;
-    int right = size - 1;
+    int right = size - 1; // Initialize the left and right pointers
 
     
     while (left <= right) {

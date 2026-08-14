@@ -15,7 +15,7 @@
 using namespace std;
 
 int binarySearch(int arr[], int size, int target) {  // binary search function int arr[], int size, int target
-    int left = 0;
+    int left = 0;  // Initialize the left pointer
     int right = size - 1; // Initialize the left and right pointers
 
     

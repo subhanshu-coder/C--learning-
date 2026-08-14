@@ -3,7 +3,7 @@ using namespace std;
 
 void printNumbers(int n) { // Function to print numbers from 1 to n using recursion
     // Base case
-    if (n == 0)
+    if (n == 0) // Base case: if n is 0, return from the function
         return;
 
            // Recursive call

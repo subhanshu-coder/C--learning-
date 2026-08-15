@@ -3,7 +3,7 @@ using namespace std;
 
 set<int> s; // Create a set of integers
 
-s.insert(30);
+s.insert(30); // Add elements to the set
 s.insert(10);
 s.insert(20);
 s.insert(10);

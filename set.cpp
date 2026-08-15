@@ -1,7 +1,7 @@
 #include<set> // set is a container that stores unique elements in a specific order. It is implemented as a balanced binary search tree, which allows for efficient insertion, deletion, and search operations. The elements in a set are always sorted in ascending order by default.
 using namespace std;
 
-set<int> s;
+set<int> s; // Create a set of integers
 
 s.insert(30);
 s.insert(10);

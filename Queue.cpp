@@ -8,6 +8,6 @@ q.push(10); // Add elements to the back of the queue
 q.push(20);
 q.push(30);
 
-cout << q.front(); // 10
+cout << q.front(); // Access the front element of the queue (10) and print it to the console
 
 q.pop();

@@ -2,7 +2,7 @@
 using namespace std;  // The queue follows the FIFO (First In First Out) principle, where elements are added to the back and removed from the front.
 
 
-queue<int> q;
+queue<int> q;  // Create a queue of integers
 
 q.push(10);
 q.push(20);

@@ -2,10 +2,10 @@
 using namespace std;
 class Student { // define a class named Student
 public:
-    string name;
+    string name; // declare a public member variable 'name' of type string
 
     Student(string n) { // constructor that takes a string parameter 'n'
-        name = n;
+        name = n; 
     }
 };
 

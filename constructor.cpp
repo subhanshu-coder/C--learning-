@@ -10,7 +10,7 @@ public:
 };
 
 int main() {
-    Student s("Rahul");
+    Student s("Rahul");  // create an object of the Student class and pass the name "Rahul" to the constructor
 
     cout << s.name;
 }

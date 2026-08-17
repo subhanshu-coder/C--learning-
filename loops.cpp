@@ -33,7 +33,7 @@ int main() {
     do { 
         cout << i << " "; 
         i++; // increment the value of 'i' by 1
-    } while(i <= 10); // continue the loop as long as 'i' is less than or equal to 10
+    } while(i <= 10); 
 
     return 0; // return 0 to indicate that the program executed successfully
 }

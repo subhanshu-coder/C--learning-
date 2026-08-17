@@ -31,7 +31,7 @@ int main() {
     int i = 1; // initialize the loop counter variable 'i' to 1
 
     do { 
-        cout << i << " "; // print the current value of 'i' followed by a space
+        cout << i << " "; 
         i++; // increment the value of 'i' by 1
     } while(i <= 10); // continue the loop as long as 'i' is less than or equal to 10
 

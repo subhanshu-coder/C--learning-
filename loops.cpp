@@ -28,7 +28,7 @@ int main() {
 using namespace std;  
 
 int main() {
-    int i = 1; // initialize the loop counter variable 'i' to 1
+    int i = 1; 
 
     do { 
         cout << i << " "; 

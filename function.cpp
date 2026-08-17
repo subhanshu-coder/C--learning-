@@ -1,8 +1,8 @@
 #include <iostream> // include the iostream library for input/output operations
-using namespace std; // 
+using namespace std; 
 
-int add(int a, int b) {
-    return a + b;
+int add(int a, int b) { 
+    return a + b; 
 }
 
 int main() {

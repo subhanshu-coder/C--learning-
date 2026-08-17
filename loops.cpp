@@ -25,7 +25,7 @@ int main() {
 
 // do- while loop solving 
 #include <iostream>
-using namespace std;  // use the standard namespace to avoid prefixing standard library names with "
+using namespace std;  
 
 int main() {
     int i = 1; // initialize the loop counter variable 'i' to 1

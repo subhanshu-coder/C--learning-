@@ -35,5 +35,5 @@ int main() {
         i++; // increment the value of 'i' by 1
     } while(i <= 10); 
 
-    return 0; // return 0 to indicate that the program executed successfully
+    return 0; 
 }

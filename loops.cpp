@@ -32,7 +32,7 @@ int main() {
 
     do { 
         cout << i << " "; 
-        i++; // increment the value of 'i' by 1
+        i++; 
     } while(i <= 10); 
 
     return 0; 

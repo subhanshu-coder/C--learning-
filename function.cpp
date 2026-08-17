@@ -1,5 +1,5 @@
-#include <iostream>
-using namespace std;
+#include <iostream> // include the iostream library for input/output operations
+using namespace std; // 
 
 int add(int a, int b) {
     return a + b;

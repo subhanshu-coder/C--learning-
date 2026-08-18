@@ -4,7 +4,7 @@ class Student { // define a class named Student
 public:
     string name; // declare a public member variable 'name' of type string
 
-    Student(string n) { // constructor that takes a string parameter 'n'
+    Student(string n) { 
         name = n; 
     }
 };

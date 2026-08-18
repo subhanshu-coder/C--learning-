@@ -17,7 +17,7 @@ int main() {
 
     while(i <= 10) { 
         cout << i << " "; 
-        i++; // increment the value of 'i' by 1
+        i++; 
     }
 
     return 0; 

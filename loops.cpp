@@ -16,7 +16,7 @@ int main() {
     int i = 1; 
 
     while(i <= 10) { 
-        cout << i << " "; // print the current value of 'i' followed by a space
+        cout << i << " "; 
         i++; // increment the value of 'i' by 1
     }
 

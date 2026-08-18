@@ -1,4 +1,4 @@
-#include <iostream> // include the iostream library for input/output operations
+#include <iostream> 
 using namespace std;  
 
 for(int i = 1; i <= 10; i++) {

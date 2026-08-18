@@ -1,6 +1,6 @@
 #include <iostream> // include the iostream library for input/output operations
 using namespace std;
-class Student { // define a class named Student
+class Student {
 public:
     string name; 
 

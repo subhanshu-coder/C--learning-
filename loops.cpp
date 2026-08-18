@@ -4,7 +4,7 @@ using namespace std;  // use the standard namespace to avoid prefixing standard 
 for(int i = 1; i <= 10; i++) {
     cout << i << " ";
 
-    return 0;  // return 0 to indicate that the program executed successfully
+    return 0;  
 }
 
 

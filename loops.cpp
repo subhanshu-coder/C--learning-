@@ -20,7 +20,7 @@ int main() {
         i++; // increment the value of 'i' by 1
     }
 
-    return 0; // return 0 to indicate that the program executed successfully
+    return 0; 
 }
 
 // do- while loop solving 

@@ -10,7 +10,7 @@ public:
 };
 
 int main() { // define the main function
-    Student s("Rahul");  // create an object of the Student class and pass the name "Rahul" to the constructor
+    Student s("Rahul");  
 
     cout << s.name;  
 }

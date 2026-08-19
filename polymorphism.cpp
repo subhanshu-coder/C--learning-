@@ -6,6 +6,6 @@ public: // Public access specifier to allow access to the member variable and co
     string name; // Member variable to store the name of the student
 
     Student(string n) { // Constructor to initialize the name of the student
-        name = n;  // Initialize the name of the student
+        name = n;  
     }
 };

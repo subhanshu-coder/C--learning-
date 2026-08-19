@@ -9,7 +9,7 @@ public:
     }
 };
 
-int main() { // define the main function
+int main() { 
     Student s("Rahul");  
 
     cout << s.name;  

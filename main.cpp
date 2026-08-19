@@ -6,4 +6,3 @@ int main(){ // main function where the program execution begins
     return 0;  // return 0 to indicate that the program executed successfully
 }  // end of the main function
 
-// return -1 ❌ The program ended with an error (failure).

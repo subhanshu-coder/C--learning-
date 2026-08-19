@@ -7,6 +7,6 @@ cout << a + b << endl;
 cout << a % b << endl;
 cout << (a > b) << endl; << endl; // print "Hello, World!" to the console followed by a newline
     return 0;  // return 0 to indicate that the program executed successfully
-}  // end of the main function
+}  
 
 #include <iostream >

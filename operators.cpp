@@ -5,7 +5,7 @@ int main(){ // main function where the program execution begins
 
 cout << a + b << endl;
 cout << a % b << endl;
-cout << (a > b) << endl; << endl; // print "Hello, World!" to the console followed by a newline
+cout << (a > b) << endl; << endl; 
     return 0;  
 }  
 

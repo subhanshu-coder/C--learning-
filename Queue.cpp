@@ -10,4 +10,4 @@ q.push(30);
 
 cout << q.front(); // Access the front element of the queue (10) and print it to the console
 
-q.pop(); // Remove the front element of the queue (10)
+q.pop(); 

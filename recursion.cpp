@@ -14,7 +14,7 @@ void printNumbers(int n) {
 
 int main() {  // Main function
 
-    printNumbers(5); // Call the function to print numbers from 1 to 5
+    printNumbers(5);
 
     return 0;
 }

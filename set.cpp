@@ -8,5 +8,5 @@ s.insert(10);
 s.insert(20);
 s.insert(10);
 
-for(int x : s)  // Iterate through the set and print the elements in ascending order
+for(int x : s)  
     cout << x << " ";

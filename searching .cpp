@@ -27,7 +27,7 @@ int binarySearch(int arr[], int size, int target) {  // binary search function i
         else if (arr[mid] < target) // If the middle element is less than the target, search in the right half
             left = mid + 1; // Search in the right half
         else
-            right = mid - 1; // Search in the left half
+            right = mid - 1; 
     }
 
     return -1; // Element not found

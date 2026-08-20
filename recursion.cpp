@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-void printNumbers(int n) { // Function to print numbers from 1 to n using recursion
+void printNumbers(int n) { 
     // Base case
     if (n == 0) 
         return;

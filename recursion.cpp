@@ -9,7 +9,7 @@ void printNumbers(int n) {
            // Recursive call
     printNumbers(n - 1);
 
-    cout << n << " "; // Print the current number after the recursive call to ensure numbers are printed in ascending order
+    cout << n << " "; 
 }
 
 int main() {  // Main function

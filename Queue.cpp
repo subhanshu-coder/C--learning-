@@ -4,7 +4,7 @@ using namespace std;  // The queue follows the FIFO (First In First Out) princip
 
 queue<int> q;  // Create a queue of integers
 
-q.push(10); // Add elements to the back of the queue
+q.push(10); 
 q.push(20);
 q.push(30);
 

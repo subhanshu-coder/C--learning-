@@ -9,4 +9,4 @@ s.insert(20);
 s.insert(10);
 
 for(int x : s)  // Iterate through the set and print the elements in ascending order
-    cout << x << " "; // Output: 10 20 30 (the duplicate element 10 is not added to the set)
+    cout << x << " ";

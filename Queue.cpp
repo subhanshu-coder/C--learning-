@@ -1,4 +1,4 @@
-#include <queue>  // queue is a container adapter that gives the functionality of a queue data structure;
+#include <queue>  
 using namespace std;  
 
 

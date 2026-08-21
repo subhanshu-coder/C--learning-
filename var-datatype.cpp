@@ -24,7 +24,7 @@ int main() {
 // data type: int takes 4 byte
 // char data type: char takes 1 byte
 // float data type: float takes 4 byte
-// bool data type: bool takes 1 byte
+
 
  
 #include <iostream>

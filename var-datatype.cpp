@@ -4,7 +4,7 @@ using namespace std;
 int main() {
      
     int age = 22; 
-    bool isStudent = true; // declare a boolean variable 'isStudent' and initialize it with the value true
+    bool isStudent = true; 
     float height = 5.9; // declare a float variable 'height' and initialize it with the value 5.9
     char grade = 'A'; // declare a char variable 'grade' and initialize it with the value 'A'
     double weight = 70.5; // declare a double variable 'weight' and initialize it with the value 70.5

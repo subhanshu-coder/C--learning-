@@ -6,7 +6,7 @@ int main() {
     int age = 22; 
     bool isStudent = true; 
     float height = 5.9; 
-    char grade = 'A'; // declare a char variable 'grade' and initialize it with the value 'A'
+    char grade = 'A';
     double weight = 70.5; // declare a double variable 'weight' and initialize it with the value 70.5
     string name = "John"; // declare a string variable 'name' and initialize it with the value "John"
     cout << "my age is: " << age <<endl;

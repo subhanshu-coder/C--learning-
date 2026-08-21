@@ -25,7 +25,7 @@ int main() {
 // char data type: char takes 1 byte
 // float data type: float takes 4 byte
 // bool data type: bool takes 1 byte
-// double data type: double takes 8 byte
+
  
 #include <iostream>
 using namespace std;

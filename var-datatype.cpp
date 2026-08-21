@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
      
-    int age = 22; // declare an integer variable 'age' and initialize it with the value 22
+    int age = 22; 
     bool isStudent = true; // declare a boolean variable 'isStudent' and initialize it with the value true
     float height = 5.9; // declare a float variable 'height' and initialize it with the value 5.9
     char grade = 'A'; // declare a char variable 'grade' and initialize it with the value 'A'

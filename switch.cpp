@@ -13,5 +13,5 @@ switch(day) {
     case 6: cout << "Saturday"; break;
     case 7: cout << "Sunday"; break;
     default: cout << "Invalid day";
-return 0;  // return 0 to indicate that the program executed successfully
+return 0;  
 } 

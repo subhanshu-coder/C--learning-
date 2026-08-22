@@ -17,7 +17,7 @@ int main() {
     cout << "size of double: " << sizeof(weight) << " bytes" << endl;
     cout << "size of string: " << sizeof(name) << " bytes" << endl;
     return 0;  
-    . In this case, returning 0 indicates that the program has executed successfully without any errors.
+    that the program has executed successfully without any errors.
     // 
 }
 

@@ -22,7 +22,7 @@ int main() {
 }
 
 
-// char data type: char takes 1 byte
+
 // float data type: float takes 4 byte
 
 

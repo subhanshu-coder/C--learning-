@@ -8,7 +8,7 @@ int main() {
     float height = 5.9; 
     char grade = 'A';
     double weight = 70.5; 
-    string name = "John"; // declare a string variable 'name' and initialize it with the value "John"
+    string name = "John"; 
     cout << "my age is: " << age <<endl;
     cout << "size of int: " << sizeof(age) << " bytes" << endl; // print the size of the integer variable 'age'
     cout << "size of bool: " << sizeof(isStudent) << " bytes" << endl; // print the size of the boolean variable 'isStudent'

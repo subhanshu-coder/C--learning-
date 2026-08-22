@@ -23,7 +23,6 @@ int main() {
 
 
 
-// float data type: float takes 4 byte
 
 
  

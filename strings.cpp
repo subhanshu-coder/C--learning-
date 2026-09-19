@@ -1,13 +1,13 @@
-// #include <iostream>
-// #include <string>
-// using namespace std;
+#include <iostream>
+#include <string>
+using namespace std;
 
-// int main() {
-//     string name;
+int main() {
+    string name;
 
-//     getline(cin, name);
+    getline(cin, name);
 
-//     cout << "Hello " << name; 
+    cout << "Hello " << name; 
 
-//   return 0;
-// }
+  return 0;
+}

@@ -26,15 +26,15 @@ int main() {
 
 
  
-#include <iostream>
-using namespace std;
+// #include <iostream>
+// using namespace std;
 
-int main() {
-   int a, b;
+// int main() {
+//    int a, b;
 
-    cout << "Enter two numbers: ";
-    cin >> a >> b;
+//     cout << "Enter two numbers: ";
+//     cin >> a >> b;
 
-    cout << "Sum = " << a + b;
-  return 0;
-}
+//     cout << "Sum = " << a + b;
+//   return 0;
+// }

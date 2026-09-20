@@ -1,17 +1,17 @@
-#include <iostream> 
-#include <string>
-using namespace std;
-class Student {
-public:
-    string name; 
+// #include <iostream> 
+// #include <string>
+// using namespace std;
+// class Student {
+// public:
+//     string name; 
 
-    Student(string n) { 
-        name = n; 
-    }
-};
+//     Student(string n) { 
+//         name = n; 
+//     }
+// };
 
-int main() { 
-    Student s("Rahul");  
+// int main() { 
+//     Student s("Rahul");  
 
-    cout << s.name;  
-}
+//     cout << s.name;  
+// }

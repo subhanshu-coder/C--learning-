@@ -9,19 +9,19 @@ for(int i = 1; i <= 10; i++) {
 
 
 // solving while loop
-#include <iostream> 
-using namespace std; 
+// #include <iostream> 
+// using namespace std; 
 
-int main() {
-    int i = 1; 
+// int main() {
+//     int i = 1; 
 
-    while(i <= 10) { 
-        cout << i << " "; 
-        i++; 
-    }
+//     while(i <= 10) { 
+//         cout << i << " "; 
+//         i++; 
+//     }
 
-    return 0; 
-}
+//     return 0; 
+// }
 
 // do- while loop solving 
 #include <iostream>

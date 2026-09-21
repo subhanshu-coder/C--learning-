@@ -1,9 +1,9 @@
-// #include <map>
-// using namespace std;
+#include <map>
+using namespace std;
 
-// map<string, int> marks;
+map<string, int> marks;
 
-// marks["Math"] = 90;
-// marks["C++"] = 95;
+marks["Math"] = 90;
+marks["C++"] = 95;
 
-// cout << marks["C++"];
+cout << marks["C++"];

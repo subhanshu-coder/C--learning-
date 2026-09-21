@@ -1,11 +1,11 @@
-// #include <iostream> 
-// using namespace std;  
+#include <iostream> 
+using namespace std;  
 
-// for(int i = 1; i <= 10; i++) {
-//     cout << i << " ";
+for(int i = 1; i <= 10; i++) {
+    cout << i << " ";
 
-//     return 0;  
-// }
+    return 0;  
+}
 
 
 // solving while loop

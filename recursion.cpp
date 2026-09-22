@@ -1,20 +1,20 @@
-// #include <iostream>
-// using namespace std;
+#include <iostream>
+using namespace std;
 
-// void printNumbers(int n) { 
-//     // Base case
-//     if (n == 0) 
-//         return;
+void printNumbers(int n) { 
+    // Base case
+    if (n == 0) 
+        return;
 
-//            // Recursive call
-//     printNumbers(n - 1);
+           // Recursive call
+    printNumbers(n - 1);
 
-//     cout << n << " "; 
-// }
+    cout << n << " "; 
+}
 
-// int main() {  // Main function
+int main() {  // Main function
 
-//     printNumbers(5);
+    printNumbers(5);
 
-//     return 0;
-// }
+    return 0;
+}

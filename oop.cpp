@@ -12,12 +12,12 @@ public:
 };
 return 0;
 }
-// int main() {
-//     Student student1;
-//     student1.name = "John";
-//     student1.age = 20;
+int main() {
+    Student student1;
+    student1.name = "John";
+    student1.age = 20;
 
-//     student1.display();
+    student1.display();
 
-//     return 0;
-// }
+    return 0;
+}

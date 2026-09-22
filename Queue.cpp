@@ -1,13 +1,13 @@
-// #include <queue>  
-// using namespace std;  
+#include <queue>  
+using namespace std;  
 
 
-// queue<int> q; 
+queue<int> q; 
 
-// q.push(10); 
-// q.push(20);
-// q.push(30);
+q.push(10); 
+q.push(20);
+q.push(30);
 
-// cout << q.front();
+cout << q.front();
 
-// q.pop(); 
+q.pop(); 

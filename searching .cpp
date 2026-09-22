@@ -11,25 +11,25 @@ for(int i = 0; i < 5; i++) {
     }
 
 // binary search implementation
-#include <iostream>
-using namespace std;
+// #include <iostream>
+// using namespace std;
 
-int binarySearch(int arr[], int size, int target) { 
-    int left = 0; 
-    int right = size - 1; 
+// int binarySearch(int arr[], int size, int target) { 
+//     int left = 0; 
+//     int right = size - 1; 
 
     
-    while (left <= right) {  
-        int mid = left + (right - left) / 2;
+//     while (left <= right) {  
+//         int mid = left + (right - left) / 2;
 
-        if (arr[mid] == target)
-            return mid; // Element found
-        else if (arr[mid] < target) 
-            left = mid + 1; 
-        else
-            right = mid - 1; 
-    }
+//         if (arr[mid] == target)
+//             return mid; // Element found
+//         else if (arr[mid] < target) 
+//             left = mid + 1; 
+//         else
+//             right = mid - 1; 
+//     }
 
-    return -1; // Element not found
-}
+//     return -1; // Element not found
+// }
 

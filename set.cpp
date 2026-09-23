@@ -1,12 +1,12 @@
-#include<set> 
-using namespace std;
+// #include<set> 
+// using namespace std;
 
-set<int> s; 
+// set<int> s; 
 
-s.insert(30);
-s.insert(10);
-s.insert(20);
-s.insert(10);
+// s.insert(30);
+// s.insert(10);
+// s.insert(20);
+// s.insert(10);
 
-for(int x : s)  
-    cout << x << " ";
+// for(int x : s)  
+//     cout << x << " ";

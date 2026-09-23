@@ -1,12 +1,12 @@
-// #include <stack>
-// using namespace std;
+#include <stack>
+using namespace std;
 
-// stack<int> s;
+stack<int> s;
 
-// s.push(10);
-// s.push(20);
-// s.push(30);
+s.push(10);
+s.push(20);
+s.push(30);
 
-// count << s.top(); 
+count << s.top(); 
 
-// s.pop();
+s.pop();
